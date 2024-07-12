@@ -44,3 +44,7 @@ def main():
     # Otherwise print("Final Winner: Player 2 - Rounds Won: ", player2_score)
   else:
     print('Final Winner: Player 2 - Rounds Won: ', player2_score)
+
+
+#calling main function to run dice rolling algorithm
+print(main())
